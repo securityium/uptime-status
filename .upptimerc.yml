@@ -9,6 +9,8 @@ sites:
     url: https://clients.prosecurity.work/
   - name: Management Portal
     url: https://projects.prosecurity.work/
+  - name: Management Portal
+    url: https://api.prosecurity.work/docs/
   
 
 status-website:
@@ -21,7 +23,7 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Securityium Service Status Updates"
-  introMessage: Welcome to our service status page, where you can find real-time updates on the availability and performance of our systems. We understand the importance of transparency and reliability in our services, and we are committed to keeping you informed about any interruptions or issues that may impact your experience.<br> Please check below for the current status of our services.<br> If you encounter any problems not listed here, or if you have any questions, please don't hesitate to reach out to our support team.
+  introMessage: Welcome to our service status page, where you can find real-time updates on the availability and performance of our systems. We understand the importance of transparency and reliability in our services, and we are committed to keeping you informed about any interruptions or issues that may impact your experience.<br><br> Please check below for the current status of our services.<br> If you encounter any problems not listed here, or if you have any questions, please don't hesitate to reach out to our support team.
   navbar:
     - title: Status
       href: /
