@@ -12,6 +12,8 @@ sites:
   
 
 status-website:
+  themeUrl: https://status.prosecurity.work/light.css
+
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.prosecurity.work
@@ -23,7 +25,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: GitHub Page
       href: https://github.com/$OWNER/
     - title: Website
       href: https://securityium.com/
