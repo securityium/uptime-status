@@ -7,13 +7,15 @@ sites:
     url: https://www.securityium.com/
   - name: Client Portal
     url: https://clients.prosecurity.work/
+  - name: Management Portal
+    url: https://projects.prosecurity.work/
   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.prosecurity.work
-  baseUrl: /uptime-status
+  #baseUrl: /uptime-status
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Securityium Service Status Updates"
@@ -22,7 +24,9 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/
+    - title: Website
+      href: https://securityium.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
