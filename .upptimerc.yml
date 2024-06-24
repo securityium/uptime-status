@@ -9,7 +9,7 @@ sites:
     url: https://clients.prosecurity.work/
   - name: Management Portal
     url: https://projects.prosecurity.work/
-  - name: Management Portal
+  - name: API Service Portal
     url: https://api.prosecurity.work/docs/
   
 
