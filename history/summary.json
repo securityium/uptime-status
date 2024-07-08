@@ -4,18 +4,20 @@
     "url": "https://www.securityium.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.securityium.com.ico",
     "slug": "securityium-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 272,
-    "timeWeek": 226,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {}
+    "time": 238,
+    "timeDay": 203,
+    "timeWeek": 215,
+    "timeMonth": 238,
+    "timeYear": 238,
+    "dailyMinutesDown": {
+      "2024-07-08": 0
+    }
   },
   {
     "name": "Client Portal",
