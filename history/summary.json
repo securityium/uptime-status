@@ -29,19 +29,19 @@
     "url": "https://clients.prosecurity.work/",
     "icon": "https://icons.duckduckgo.com/ip3/clients.prosecurity.work.ico",
     "slug": "client-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 65,
-    "timeWeek": 213,
-    "timeMonth": 200,
-    "timeYear": 189,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 188,
+    "timeDay": 88,
+    "timeWeek": 200,
+    "timeMonth": 198,
+    "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 23
     }
   },
   {
@@ -49,19 +49,19 @@
     "url": "https://projects.prosecurity.work/",
     "icon": "https://icons.duckduckgo.com/ip3/projects.prosecurity.work.ico",
     "slug": "management-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 58,
-    "timeWeek": 111,
-    "timeMonth": 171,
+    "timeDay": 79,
+    "timeWeek": 110,
+    "timeMonth": 169,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 22
     }
   },
   {
