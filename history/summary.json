@@ -29,9 +29,9 @@
     "url": "https://clients.prosecurity.work/",
     "icon": "https://icons.duckduckgo.com/ip3/clients.prosecurity.work.ico",
     "slug": "client-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -40,16 +40,18 @@
     "timeWeek": 213,
     "timeMonth": 200,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Management Portal",
     "url": "https://projects.prosecurity.work/",
     "icon": "https://icons.duckduckgo.com/ip3/projects.prosecurity.work.ico",
     "slug": "management-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +60,9 @@
     "timeWeek": 111,
     "timeMonth": 171,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "API Service Portal",
