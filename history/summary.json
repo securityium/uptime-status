@@ -4,7 +4,7 @@
     "url": "https://www.securityium.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.securityium.com.ico",
     "slug": "securityium-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 263,
     "timeYear": 349,
     "dailyMinutesDown": {
+      "2024-12-10": 0,
       "2024-09-10": 6,
       "2024-08-07": 7,
       "2024-08-03": 22,
