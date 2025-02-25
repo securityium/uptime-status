@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 357,
-    "timeDay": 276,
-    "timeWeek": 224,
-    "timeMonth": 229,
+    "timeDay": 222,
+    "timeWeek": 217,
+    "timeMonth": 227,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2024-08-03": 22,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 177,
-    "timeDay": 418,
-    "timeWeek": 168,
-    "timeMonth": 153,
+    "timeDay": 250,
+    "timeWeek": 157,
+    "timeMonth": 150,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2024-10-22": 23
@@ -51,18 +51,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 191,
-    "timeDay": 52,
-    "timeWeek": 133,
-    "timeMonth": 164,
-    "timeYear": 191,
+    "time": 190,
+    "timeDay": 69,
+    "timeWeek": 127,
+    "timeMonth": 162,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2024-10-22": 22
     }
   },
   {
     "name": "API Service Portal",
-    "url": "https://api.prosecurity.work/docs/",
+    "url": "https://api.prosecurity.work/",
     "icon": "https://icons.duckduckgo.com/ip3/api.prosecurity.work.ico",
     "slug": "api-service-portal",
     "status": "down",
@@ -72,9 +72,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 198,
-    "timeDay": 281,
-    "timeWeek": 183,
-    "timeMonth": 198,
+    "timeDay": 185,
+    "timeWeek": 171,
+    "timeMonth": 194,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-02-01": 47
