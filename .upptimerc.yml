@@ -10,7 +10,7 @@ sites:
   - name: Management Portal
     url: https://projects.prosecurity.work/
   - name: API Service Portal
-    url: https://api.prosecurity.work/docs/
+    url: https://api.prosecurity.work/
   
 
 status-website:
