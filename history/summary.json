@@ -6,14 +6,14 @@
     "slug": "securityium-website",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "92.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.99%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.94%",
     "time": 346,
-    "timeDay": 384,
-    "timeWeek": 275,
-    "timeMonth": 236,
+    "timeDay": 233,
+    "timeWeek": 271,
+    "timeMonth": 238,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2025-07-05": 107,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 117,
-    "timeWeek": 149,
-    "timeMonth": 150,
+    "timeDay": 95,
+    "timeWeek": 136,
+    "timeMonth": 144,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-10-22": 23
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 254,
-    "timeWeek": 161,
+    "time": 179,
+    "timeDay": 87,
+    "timeWeek": 157,
     "timeMonth": 145,
-    "timeYear": 182,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2024-10-22": 22
     }
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 214,
-    "timeDay": 150,
-    "timeWeek": 193,
-    "timeMonth": 220,
-    "timeYear": 217,
+    "time": 215,
+    "timeDay": 445,
+    "timeWeek": 219,
+    "timeMonth": 230,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-02-01": 47
     }
