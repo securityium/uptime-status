@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 329,
-    "timeDay": 224,
-    "timeWeek": 212,
-    "timeMonth": 283,
+    "timeDay": 190,
+    "timeWeek": 216,
+    "timeMonth": 282,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2025-09-03": 172,
@@ -33,14 +33,14 @@
     "slug": "client-portal",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.06%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 184,
-    "timeDay": 829,
-    "timeWeek": 485,
-    "timeMonth": 259,
+    "timeDay": 70,
+    "timeWeek": 481,
+    "timeMonth": 266,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2025-10-20": 42,
@@ -48,8 +48,7 @@
       "2025-09-01": 39,
       "2025-08-30": 67,
       "2025-08-29": 1,
-      "2025-08-26": 20,
-      "2024-10-22": 23
+      "2025-08-26": 20
     }
   },
   {
@@ -59,14 +58,14 @@
     "slug": "management-portal",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
     "time": 181,
-    "timeDay": 847,
-    "timeWeek": 470,
-    "timeMonth": 264,
+    "timeDay": 131,
+    "timeWeek": 471,
+    "timeMonth": 267,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-10-20": 42,
@@ -74,8 +73,7 @@
       "2025-09-01": 39,
       "2025-08-30": 67,
       "2025-08-29": 0,
-      "2025-08-26": 20,
-      "2024-10-22": 22
+      "2025-08-26": 20
     }
   },
   {
@@ -90,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 222,
-    "timeDay": 283,
-    "timeWeek": 238,
-    "timeMonth": 274,
+    "timeDay": 176,
+    "timeWeek": 207,
+    "timeMonth": 276,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-02-01": 47
