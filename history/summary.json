@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.securityium.com.ico",
     "slug": "securityium-website",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.81%",
     "time": 345,
-    "timeDay": 177,
-    "timeWeek": 244,
-    "timeMonth": 350,
+    "timeDay": 151,
+    "timeWeek": 238,
+    "timeMonth": 360,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2026-02-01": 74,
@@ -44,8 +44,8 @@
     "uptimeYear": "99.96%",
     "time": 187,
     "timeDay": 265,
-    "timeWeek": 170,
-    "timeMonth": 188,
+    "timeWeek": 196,
+    "timeMonth": 196,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-10-20": 42,
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 174,
-    "timeDay": 396,
-    "timeWeek": 171,
-    "timeMonth": 156,
+    "timeDay": 188,
+    "timeWeek": 187,
+    "timeMonth": 164,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-10-20": 42,
@@ -96,7 +96,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   }
 ]
